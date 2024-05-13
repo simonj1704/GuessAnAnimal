@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(67, 85, 36);
+    color: darkgoldenrod;
+    font-family: 'Arial', sans-serif;
+}
+
+.guess {
+    border: 2px solid black;
+    padding: 1em;
+    margin-bottom: 1px;
+}

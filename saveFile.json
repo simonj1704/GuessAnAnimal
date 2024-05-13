@@ -1,0 +1,27 @@
+{
+    "question": "Er det et pattedyr?",
+    "yes": {
+        "question": "Er det et Rovdyr?",
+        "yes": {
+            "question": "Er det en løve?"
+            },
+        "no": {
+            "question": "Er det en elefant?"
+        }
+        },
+    "no": {
+        "question": "Er det en fugl?",
+        "yes": {
+            "question": "Kan den flyve?",
+            "yes": {
+                "question": "Er det en ørn?"
+                },
+            "no": {
+                "question": "Er det en pingvin?"
+            }
+        },
+        "no": {
+            "question": "Er det en slange?"
+        }
+        } 
+}
